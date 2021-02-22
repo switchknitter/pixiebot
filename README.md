@@ -16,6 +16,8 @@ In the Discord server running Pixie, type:
 
 A random card's image and meaning will be returned to the channel.
 
+You can also send a DM to Pixie, just like you would DM any other Discord user, and she will return your card privately.
+
 ## Notes
 
 Pixie was the nickname of Pamela Coleman Smith, the artist of the Waite-Smith deck.
