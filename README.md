@@ -29,7 +29,7 @@ The art was downloaded from http://freeware.esoterica.free.fr/html/freecards.htm
 
 ## Support
 
-[Report an issue](https://github.com/switchknitter/) if you have problems.
+[Report an issue](https://github.com/nonbinarycoding/) if you have problems.
 
 ## License
 
