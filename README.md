@@ -29,8 +29,5 @@ The art was downloaded from http://freeware.esoterica.free.fr/html/freecards.htm
 
 ## Support
 
-[Report an issue](https://github.com/nonbinarycoding/) if you have problems.
+[Report an issue](https://github.com/switchknitting/) if you have problems.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
