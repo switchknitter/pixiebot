@@ -4,7 +4,7 @@ Pixie is a divination Discord bot (for fun, not actual fortune telling). You sen
 
 ## Setup
 
-If you want to invite Pixie to your existing server, just point your browser at https://discord.com/oauth2/authorize?client_id=812842157416775681&scope=bot&permissions=2147503104 .
+If you want to invite Pixie to your existing server, just point your browser at https://discord.com/api/oauth2/authorize?client_id=812842157416775681&permissions=2147485696&scope=bot%20applications.commands .
 
 ## Usage
 
